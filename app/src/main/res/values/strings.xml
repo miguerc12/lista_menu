@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Mi Aplicación</string>
+    <string name="agregar">Agregar</string>
+    <string name="salir">Salir</string>
+    <string name="nueva_tarea">Nueva tarea</string>
+</resources>

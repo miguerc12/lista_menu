@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Menu_lista" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Customize your light theme here. -->
+        <item name="android:colorBackground">@color/blue_background</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:buttonStyle">@style/BlackButton</item>
+    </style>
+
+    <style name="Theme.Menu_lista" parent="Base.Theme.Menu_lista" />
+
+    <style name="BlackButton" parent="Widget.Material3.Button">
+        <item name="android:background">#6E0707</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
